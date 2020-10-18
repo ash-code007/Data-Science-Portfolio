@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computer Vision on Home</title>
+    <link>https://ash-code007.github.io/Data-Science-Portfolio/tags/computer-vision/</link>
+    <description>Recent content in Computer Vision on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 10 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://ash-code007.github.io/Data-Science-Portfolio/tags/computer-vision/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project I: Autonomous Self Driving Car</title>
+      <link>https://ash-code007.github.io/Data-Science-Portfolio/post/project-1/</link>
+      <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ash-code007.github.io/Data-Science-Portfolio/post/project-1/</guid>
+      <description>Autonomous driving has been a topic of discussion in companies from many years. It has always been promised that this innovation can bring life-changing safety and ease to the otherwise prosaic life of the people. Although something truly driverless is practically nowhere in sight of being available to consumers, it definitely is closer than many think. Current estimates speculate that the world in 2025 will see over a hundred thousand self-driving cars on road, and by 2035 that number would have sky-rocketed to almost 21 million.</description>
+    </item>
+    
+  </channel>
+</rss>
