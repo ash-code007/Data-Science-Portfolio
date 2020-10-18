@@ -1,23 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Deep Learning on Home</title>
+    <title>Deep Learning on Abhishek Hegde</title>
     <link>https://ash-code007.github.io/Data-Science-Portfolio/tags/deep-learning/</link>
-    <description>Recent content in Deep Learning on Home</description>
+    <description>Recent content in Deep Learning on Abhishek Hegde</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://ash-code007.github.io/Data-Science-Portfolio/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Project II: Dog Breed Image Classifier using CNN and Transfer Learning</title>
+      <link>https://ash-code007.github.io/Data-Science-Portfolio/post/project-2/</link>
+      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ash-code007.github.io/Data-Science-Portfolio/post/project-2/</guid>
+      <description>A Project completed as part of Deep Learning Nanodegree by Udacity.
+  Built a Deep Learning Pipeline to process the real world ,user-supplied images. Given an image of a dog, the algorithm will identify an estimate of the canine’s breed. If supplied an image of a human, the code will identify the resembling dog breed.
+  The CNN model which was built from scratch achieved a Test Accuracy of 16% with a Limited and imbalanced dataset (With this data, it is even difficult for humans to correctly identify the breed of the dog).</description>
+    </item>
+    
+    <item>
       <title>Project I: Autonomous Self Driving Car</title>
       <link>https://ash-code007.github.io/Data-Science-Portfolio/post/project-1/</link>
-      <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 10 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://ash-code007.github.io/Data-Science-Portfolio/post/project-1/</guid>
-      <description>Autonomous driving has been a topic of discussion in companies from many years. It has always been promised that this innovation can bring life-changing safety and ease to the otherwise prosaic life of the people. Although something truly driverless is practically nowhere in sight of being available to consumers, it definitely is closer than many think. Current estimates speculate that the world in 2025 will see over a hundred thousand self-driving cars on road, and by 2035 that number would have sky-rocketed to almost 21 million.</description>
+      <description>B.E Capstone Project:  Autonomous driving has been a topic of discussion in companies from many years. It has always been promised that this innovation can bring life-changing safety and ease to the otherwise prosaic life of the people. Although something truly driverless is practically nowhere in sight of being available to consumers, it definitely is closer than many think. Current estimates speculate that the world in 2025 will see over a hundred thousand self-driving cars on road, and by 2035 that number would have sky-rocketed to almost 21 million.</description>
     </item>
     
   </channel>

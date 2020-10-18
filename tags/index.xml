@@ -1,49 +1,67 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Home</title>
+    <title>Tags on Abhishek Hegde</title>
     <link>https://ash-code007.github.io/Data-Science-Portfolio/tags/</link>
-    <description>Recent content in Tags on Home</description>
+    <description>Recent content in Tags on Abhishek Hegde</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://ash-code007.github.io/Data-Science-Portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Business Analysis</title>
-      <link>https://ash-code007.github.io/Data-Science-Portfolio/tags/business-analysis/</link>
-      <pubDate>Sun, 05 Jul 2020 00:00:00 +0000</pubDate>
+      <title>EDA</title>
+      <link>https://ash-code007.github.io/Data-Science-Portfolio/tags/eda/</link>
+      <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ash-code007.github.io/Data-Science-Portfolio/tags/business-analysis/</guid>
+      <guid>https://ash-code007.github.io/Data-Science-Portfolio/tags/eda/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Machine Learning</title>
       <link>https://ash-code007.github.io/Data-Science-Portfolio/tags/machine-learning/</link>
-      <pubDate>Sun, 05 Jul 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 15 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://ash-code007.github.io/Data-Science-Portfolio/tags/machine-learning/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Computer Vision</title>
-      <link>https://ash-code007.github.io/Data-Science-Portfolio/tags/computer-vision/</link>
-      <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
+      <title>Business Analysis</title>
+      <link>https://ash-code007.github.io/Data-Science-Portfolio/tags/business-analysis/</link>
+      <pubDate>Sat, 25 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ash-code007.github.io/Data-Science-Portfolio/tags/computer-vision/</guid>
+      <guid>https://ash-code007.github.io/Data-Science-Portfolio/tags/business-analysis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep Learning</title>
       <link>https://ash-code007.github.io/Data-Science-Portfolio/tags/deep-learning/</link>
-      <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://ash-code007.github.io/Data-Science-Portfolio/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image Classification</title>
+      <link>https://ash-code007.github.io/Data-Science-Portfolio/tags/image-classification/</link>
+      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ash-code007.github.io/Data-Science-Portfolio/tags/image-classification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computer Vision</title>
+      <link>https://ash-code007.github.io/Data-Science-Portfolio/tags/computer-vision/</link>
+      <pubDate>Mon, 10 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ash-code007.github.io/Data-Science-Portfolio/tags/computer-vision/</guid>
       <description></description>
     </item>
     

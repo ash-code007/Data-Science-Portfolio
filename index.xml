@@ -1,32 +1,63 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Data Science Portfolio on Home</title>
+    <title>Data Science Portfolio on Abhishek Hegde</title>
     <link>https://ash-code007.github.io/Data-Science-Portfolio/</link>
-    <description>Recent content in Data Science Portfolio on Home</description>
+    <description>Recent content in Data Science Portfolio on Abhishek Hegde</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://ash-code007.github.io/Data-Science-Portfolio/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Project II: Demand Forecasting using MLR</title>
+      <title>Project V: Loan Default Risk Analysis using EDA</title>
+      <link>https://ash-code007.github.io/Data-Science-Portfolio/post/project-5/</link>
+      <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ash-code007.github.io/Data-Science-Portfolio/post/project-5/</guid>
+      <description>This project aims to give us an idea of applying EDA in a real business scenario. In this project, apart from applying EDA techniques , we will also develop a basic understanding of risk analytics in banking and financial services and understand how data is used to minimize the risk of losing money while lending to customers.
+The loan providing companies find it hard to give loans to the people due to their insufficient or non-existent credit history.</description>
+    </item>
+    
+    <item>
+      <title>Project IV: Titanic Survival Prediction Web-App</title>
+      <link>https://ash-code007.github.io/Data-Science-Portfolio/post/project-4/</link>
+      <pubDate>Sat, 15 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ash-code007.github.io/Data-Science-Portfolio/post/project-4/</guid>
+      <description>Designed a web-app which, on entering the details of an imaginary passenger (i.e. name, age, gender, socio-economic class, etc.) tells whether your passenger would have survived the catastrophe or not using the help of an ML algorithm (Random Forrest). Used Heroku for deployment Used Streamlit for UI design.  Link to Web-App  Link to GitHub Repo
+Tags:</description>
+    </item>
+    
+    <item>
+      <title>Project III: Demand Forecasting using MLR</title>
+      <link>https://ash-code007.github.io/Data-Science-Portfolio/post/project-3/</link>
+      <pubDate>Sat, 25 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ash-code007.github.io/Data-Science-Portfolio/post/project-3/</guid>
+      <description>We are required to model the demand for shared bikes with the available independent variables. It will be used by the management to understand how exactly the demands vary with different features. They can accordingly manipulate the business strategy to meet the demand levels and meet the customer&amp;rsquo;s expectations. Further, the model will be a good way for management to understand the demand dynamics of a new market, helping solve two potential problems for the company:</description>
+    </item>
+    
+    <item>
+      <title>Project II: Dog Breed Image Classifier using CNN and Transfer Learning</title>
       <link>https://ash-code007.github.io/Data-Science-Portfolio/post/project-2/</link>
-      <pubDate>Sun, 05 Jul 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://ash-code007.github.io/Data-Science-Portfolio/post/project-2/</guid>
-      <description>We are required to model the demand for shared bikes with the available independent variables. It will be used by the management to understand how exactly the demands vary with different features. They can accordingly manipulate the business strategy to meet the demand levels and meet the customer&amp;rsquo;s expectations. Further, the model will be a good way for management to understand the demand dynamics of a new market, helping solve two potential problems for the company:</description>
+      <description>A Project completed as part of Deep Learning Nanodegree by Udacity.
+  Built a Deep Learning Pipeline to process the real world ,user-supplied images. Given an image of a dog, the algorithm will identify an estimate of the canine’s breed. If supplied an image of a human, the code will identify the resembling dog breed.
+  The CNN model which was built from scratch achieved a Test Accuracy of 16% with a Limited and imbalanced dataset (With this data, it is even difficult for humans to correctly identify the breed of the dog).</description>
     </item>
     
     <item>
       <title>Project I: Autonomous Self Driving Car</title>
       <link>https://ash-code007.github.io/Data-Science-Portfolio/post/project-1/</link>
-      <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 10 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://ash-code007.github.io/Data-Science-Portfolio/post/project-1/</guid>
-      <description>Autonomous driving has been a topic of discussion in companies from many years. It has always been promised that this innovation can bring life-changing safety and ease to the otherwise prosaic life of the people. Although something truly driverless is practically nowhere in sight of being available to consumers, it definitely is closer than many think. Current estimates speculate that the world in 2025 will see over a hundred thousand self-driving cars on road, and by 2035 that number would have sky-rocketed to almost 21 million.</description>
+      <description>B.E Capstone Project:  Autonomous driving has been a topic of discussion in companies from many years. It has always been promised that this innovation can bring life-changing safety and ease to the otherwise prosaic life of the people. Although something truly driverless is practically nowhere in sight of being available to consumers, it definitely is closer than many think. Current estimates speculate that the world in 2025 will see over a hundred thousand self-driving cars on road, and by 2035 that number would have sky-rocketed to almost 21 million.</description>
     </item>
     
     <item>

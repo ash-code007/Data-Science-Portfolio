@@ -3,64 +3,99 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ash-code007.github.io/Data-Science-Portfolio/tags/business-analysis/</loc>
-    <lastmod>2020-07-05T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://ash-code007.github.io/Data-Science-Portfolio/</loc>
-    <lastmod>2020-07-05T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-07T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://ash-code007.github.io/Data-Science-Portfolio/tags/machine-learning/</loc>
-    <lastmod>2020-07-05T00:00:00+00:00</lastmod>
+    <loc>https://ash-code007.github.io/Data-Science-Portfolio/tags/eda/</loc>
+    <lastmod>2020-09-07T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://ash-code007.github.io/Data-Science-Portfolio/post/project-2/</loc>
-    <lastmod>2020-07-05T00:00:00+00:00</lastmod>
+    <loc>https://ash-code007.github.io/Data-Science-Portfolio/post/project-5/</loc>
+    <lastmod>2020-09-07T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://ash-code007.github.io/Data-Science-Portfolio/post/</loc>
-    <lastmod>2020-07-05T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-07T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://ash-code007.github.io/Data-Science-Portfolio/tags/</loc>
-    <lastmod>2020-07-05T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-07T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://ash-code007.github.io/Data-Science-Portfolio/tags/computer-vision/</loc>
-    <lastmod>2020-05-10T00:00:00+00:00</lastmod>
+    <loc>https://ash-code007.github.io/Data-Science-Portfolio/tags/machine-learning/</loc>
+    <lastmod>2020-08-15T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ash-code007.github.io/Data-Science-Portfolio/post/project-4/</loc>
+    <lastmod>2020-08-15T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ash-code007.github.io/Data-Science-Portfolio/tags/business-analysis/</loc>
+    <lastmod>2020-07-25T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ash-code007.github.io/Data-Science-Portfolio/post/project-3/</loc>
+    <lastmod>2020-07-25T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://ash-code007.github.io/Data-Science-Portfolio/tags/deep-learning/</loc>
-    <lastmod>2020-05-10T00:00:00+00:00</lastmod>
+    <lastmod>2020-05-05T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ash-code007.github.io/Data-Science-Portfolio/tags/image-classification/</loc>
+    <lastmod>2020-05-05T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ash-code007.github.io/Data-Science-Portfolio/post/project-2/</loc>
+    <lastmod>2020-05-05T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ash-code007.github.io/Data-Science-Portfolio/tags/computer-vision/</loc>
+    <lastmod>2020-02-10T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://ash-code007.github.io/Data-Science-Portfolio/post/project-1/</loc>
-    <lastmod>2020-05-10T00:00:00+00:00</lastmod>
+    <lastmod>2020-02-10T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
