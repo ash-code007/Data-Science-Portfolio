@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Clustering on Abhishek Hegde</title>
+    <link>https://ash-code007.github.io/Data-Science-Portfolio/tags/clustering/</link>
+    <description>Recent content in Clustering on Abhishek Hegde</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 17 Oct 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://ash-code007.github.io/Data-Science-Portfolio/tags/clustering/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project VI: Clustering of Countries</title>
+      <link>https://ash-code007.github.io/Data-Science-Portfolio/post/project-6/</link>
+      <pubDate>Sat, 17 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ash-code007.github.io/Data-Science-Portfolio/post/project-6/</guid>
+      <description>HELP International is an international humanitarian NGO that is committed to fighting poverty and providing the people of backward countries with basic amenities and relief during the time of disasters and natural calamities. It runs a lot of operational projects from time to time along with advocacy drives to raise awareness as well as for funding purposes.
+After the recent funding programs, they have been able to raise around $ 10 million.</description>
+    </item>
+    
+  </channel>
+</rss>

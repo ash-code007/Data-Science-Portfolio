@@ -3,35 +3,49 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://ash-code007.github.io/Data-Science-Portfolio/tags/clustering/</loc>
+    <lastmod>2020-10-17T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://ash-code007.github.io/Data-Science-Portfolio/</loc>
-    <lastmod>2020-09-07T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-17T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://ash-code007.github.io/Data-Science-Portfolio/tags/eda/</loc>
-    <lastmod>2020-09-07T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-17T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://ash-code007.github.io/Data-Science-Portfolio/post/project-5/</loc>
-    <lastmod>2020-09-07T00:00:00+00:00</lastmod>
+    <loc>https://ash-code007.github.io/Data-Science-Portfolio/post/project-6/</loc>
+    <lastmod>2020-10-17T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://ash-code007.github.io/Data-Science-Portfolio/post/</loc>
-    <lastmod>2020-09-07T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-17T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://ash-code007.github.io/Data-Science-Portfolio/tags/</loc>
+    <lastmod>2020-10-17T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ash-code007.github.io/Data-Science-Portfolio/post/project-5/</loc>
     <lastmod>2020-09-07T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
