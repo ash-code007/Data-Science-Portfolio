@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Logistic Regression on Abhishek Hegde</title>
+    <link>https://ash-code007.github.io/Data-Science-Portfolio/tags/logistic-regression/</link>
+    <description>Recent content in Logistic Regression on Abhishek Hegde</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://ash-code007.github.io/Data-Science-Portfolio/tags/logistic-regression/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project VII: Lead Scoring using Logistic Regression</title>
+      <link>https://ash-code007.github.io/Data-Science-Portfolio/post/project-7/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ash-code007.github.io/Data-Science-Portfolio/post/project-7/</guid>
+      <description>The problem statement of the case study revolved around an education company named X Education that sells online courses to industry professionals. X Education faced a problem of getting a lot of leads, but the lead conversion rate being very poor. To make this process more efficient, the company wishes to identify the most potential leads, also known as ‘Hot Leads’.
+X Education appointed us to help them select the most promising leads, i.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -6,10 +6,20 @@
     <description>Recent content in Data Science Portfolio on Abhishek Hegde</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 17 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://ash-code007.github.io/Data-Science-Portfolio/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Project VII: Lead Scoring using Logistic Regression</title>
+      <link>https://ash-code007.github.io/Data-Science-Portfolio/post/project-7/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ash-code007.github.io/Data-Science-Portfolio/post/project-7/</guid>
+      <description>The problem statement of the case study revolved around an education company named X Education that sells online courses to industry professionals. X Education faced a problem of getting a lot of leads, but the lead conversion rate being very poor. To make this process more efficient, the company wishes to identify the most potential leads, also known as ‘Hot Leads’.
+X Education appointed us to help them select the most promising leads, i.</description>
+    </item>
     
     <item>
       <title>Project VI: Clustering of Countries</title>
@@ -37,7 +47,8 @@ The loan providing companies find it hard to give loans to the people due to the
       <pubDate>Sat, 15 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://ash-code007.github.io/Data-Science-Portfolio/post/project-4/</guid>
-      <description>Designed a web-app which, on entering the details of an imaginary passenger (i.e. name, age, gender, socio-economic class, etc.) tells whether your passenger would have survived the catastrophe or not using the help of an ML algorithm (Random Forrest). Used Heroku for deployment Used Streamlit for UI design.  Link to Web-App  Link to GitHub Repo
+      <description>Designed a web-app which, on entering the details of an imaginary passenger (i.e. name, age, gender, socio-economic class, etc.) tells whether your passenger would have survived the catastrophe or not using the help of an ML algorithm (Random Forrest). Used Heroku for deployment Used Streamlit for UI design.  Link to Web-App 
+Link to GitHub Repo
 Tags:</description>
     </item>
     
