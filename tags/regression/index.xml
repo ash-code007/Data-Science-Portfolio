@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Regression on Abhishek Hegde</title>
+    <link>https://ash-code007.github.io/Data-Science-Portfolio/tags/regression/</link>
+    <description>Recent content in Regression on Abhishek Hegde</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 21 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://ash-code007.github.io/Data-Science-Portfolio/tags/regression/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project VIII: Advanced Regression Techniques for Prediction of House Prices</title>
+      <link>https://ash-code007.github.io/Data-Science-Portfolio/post/project-8/</link>
+      <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ash-code007.github.io/Data-Science-Portfolio/post/project-8/</guid>
+      <description>Business Understanding and Problem Description: A US-based housing company has decided to enter the Australian market. The company uses data analytics to purchase houses at a price below their actual values and flip them at a higher price. For the same purpose, the company has collected a data set from the sale of houses in Australia. The company is looking at prospective properties to buy to enter the market.
+Our Job: We are required to build a regression model using advanced techniques like Iterative Imputation and Transformation for data wrangling; and Ridge/Lasso/ElasticNet Regularisation for modelling in order to predict the actual value of the prospective properties and decide whether to invest in them or not.</description>
+    </item>
+    
+  </channel>
+</rss>

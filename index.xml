@@ -6,10 +6,29 @@
     <description>Recent content in Data Science Portfolio on Abhishek Hegde</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://ash-code007.github.io/Data-Science-Portfolio/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Project IX: IPL Data Viz using Tableau</title>
+      <link>https://ash-code007.github.io/Data-Science-Portfolio/post/project-9/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ash-code007.github.io/Data-Science-Portfolio/post/project-9/</guid>
+      <description>The Indian Premier League, or IPL, is a T20 cricket league, which was founded in 2008 and is held every year. It sees participation from both national and international players, and eight teams representing eight Indian cities compete with each other in a double round-robin format in the league stages, which are followed by playoffs. Over the years, IPL has become one of the most-watched and most attended live sporting events all over the world.</description>
+    </item>
+    
+    <item>
+      <title>Project VIII: Advanced Regression Techniques for Prediction of House Prices</title>
+      <link>https://ash-code007.github.io/Data-Science-Portfolio/post/project-8/</link>
+      <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ash-code007.github.io/Data-Science-Portfolio/post/project-8/</guid>
+      <description>Business Understanding and Problem Description: A US-based housing company has decided to enter the Australian market. The company uses data analytics to purchase houses at a price below their actual values and flip them at a higher price. For the same purpose, the company has collected a data set from the sale of houses in Australia. The company is looking at prospective properties to buy to enter the market.
+Our Job: We are required to build a regression model using advanced techniques like Iterative Imputation and Transformation for data wrangling; and Ridge/Lasso/ElasticNet Regularisation for modelling in order to predict the actual value of the prospective properties and decide whether to invest in them or not.</description>
+    </item>
     
     <item>
       <title>Project VII: Lead Scoring using Logistic Regression</title>

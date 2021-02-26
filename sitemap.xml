@@ -3,6 +3,83 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://ash-code007.github.io/Data-Science-Portfolio/tags/dashboards/</loc>
+    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ash-code007.github.io/Data-Science-Portfolio/</loc>
+    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ash-code007.github.io/Data-Science-Portfolio/tags/eda/</loc>
+    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ash-code007.github.io/Data-Science-Portfolio/post/project-9/</loc>
+    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ash-code007.github.io/Data-Science-Portfolio/post/</loc>
+    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ash-code007.github.io/Data-Science-Portfolio/tags/tableau/</loc>
+    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ash-code007.github.io/Data-Science-Portfolio/tags/</loc>
+    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ash-code007.github.io/Data-Science-Portfolio/tags/predictive-analysis/</loc>
+    <lastmod>2020-12-21T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ash-code007.github.io/Data-Science-Portfolio/post/project-8/</loc>
+    <lastmod>2020-12-21T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ash-code007.github.io/Data-Science-Portfolio/tags/regression/</loc>
+    <lastmod>2020-12-21T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ash-code007.github.io/Data-Science-Portfolio/tags/regularization/</loc>
+    <lastmod>2020-12-21T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://ash-code007.github.io/Data-Science-Portfolio/tags/business-analysis/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -17,20 +94,6 @@
   </url>
   
   <url>
-    <loc>https://ash-code007.github.io/Data-Science-Portfolio/</loc>
-    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://ash-code007.github.io/Data-Science-Portfolio/tags/eda/</loc>
-    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://ash-code007.github.io/Data-Science-Portfolio/tags/logistic-regression/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -39,20 +102,6 @@
   
   <url>
     <loc>https://ash-code007.github.io/Data-Science-Portfolio/post/project-7/</loc>
-    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://ash-code007.github.io/Data-Science-Portfolio/post/</loc>
-    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://ash-code007.github.io/Data-Science-Portfolio/tags/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tableau on Abhishek Hegde</title>
+    <link>https://ash-code007.github.io/Data-Science-Portfolio/tags/tableau/</link>
+    <description>Recent content in Tableau on Abhishek Hegde</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://ash-code007.github.io/Data-Science-Portfolio/tags/tableau/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project IX: IPL Data Viz using Tableau</title>
+      <link>https://ash-code007.github.io/Data-Science-Portfolio/post/project-9/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ash-code007.github.io/Data-Science-Portfolio/post/project-9/</guid>
+      <description>The Indian Premier League, or IPL, is a T20 cricket league, which was founded in 2008 and is held every year. It sees participation from both national and international players, and eight teams representing eight Indian cities compete with each other in a double round-robin format in the league stages, which are followed by playoffs. Over the years, IPL has become one of the most-watched and most attended live sporting events all over the world.</description>
+    </item>
+    
+  </channel>
+</rss>
